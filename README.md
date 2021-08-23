@@ -16,7 +16,7 @@ Some screenshots from the generated coverage report of `etcd7443` and `kubernete
 Folder **ECT** includes sample ECT snippets of `moby28462`, `etcd7443` and `kubernetes11298` bug kernels.
 
 ## Shiviz
-Folder **Shiviz** includes sample HB logs that we extracted from ECTs. The logs are extracted from the execution of `fanin.go` and visualized using [Shiviz](https://bestchai.bitbucket.io/shiviz/). You can load ECT logs in [Shiviz](https://bestchai.bitbucket.io/shiviz/) and interactively study ECTs. 
+Folder **Shiviz** includes sample HB logs that we extracted from ECTs. The logs are extracted from the execution of `fanin.go` and visualized using [Shiviz](https://bestchai.bitbucket.io/shiviz/). You can load ECT logs in [Shiviz](https://bestchai.bitbucket.io/shiviz/) and interactively study ECTs.
 
 ## Future Work
 These visualizations are preliminary samples. We are actively working on better visualizations to include in the GOAT release.
