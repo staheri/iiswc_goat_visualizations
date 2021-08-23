@@ -1,0 +1,1272 @@
+ts:0 event:GoCreate p=0 g=0 off=25 g=1 stack=2
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:37)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:110)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:420 event:GoWaiting p=0 g=1 off=31 g=1
+-----------------------------------------------------------
+ts:4985 event:GoCreate p=0 g=0 off=34 g=2 stack=3
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:37)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:110)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:5165 event:GoWaiting p=0 g=2 off=41 g=2
+-----------------------------------------------------------
+ts:12733 event:GoCreate p=0 g=0 off=44 g=3 stack=4
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:37)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:110)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:12854 event:GoWaiting p=0 g=3 off=51 g=3
+-----------------------------------------------------------
+ts:17479 event:GoCreate p=0 g=0 off=54 g=4 stack=5
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:37)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:110)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:17569 event:GoWaiting p=0 g=4 off=61 g=4
+-----------------------------------------------------------
+ts:22284 event:GoCreate p=0 g=0 off=64 g=5 stack=6
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:37)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:110)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:22374 event:GoWaiting p=0 g=5 off=71 g=5
+-----------------------------------------------------------
+ts:22764 event:GoCreate p=0 g=0 off=74 g=6 stack=7
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:37)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:110)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:22945 event:ProcStart p=0 g=0 off=80 thread=0
+-----------------------------------------------------------
+ts:23185 event:GoStart p=0 g=6 off=83 g=6 seq=0
+        (-testing.callerName:-1)
+-----------------------------------------------------------
+ts:26008 event:Gomaxprocs p=0 g=6 off=133 procs=8
+        (/home/saeed/go/src/runtime/proc.go-runtime.startTheWorld:925)
+        (/home/saeed/go/src/runtime/proc.go-runtime.startTheWorldGC:942)
+        (/home/saeed/go/src/runtime/trace.go-runtime.StartTrace:293)
+        (/home/saeed/go/src/runtime/trace/trace.go-runtime/trace.Start:124)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:37)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:110)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:37991 event:GoCreate p=0 g=6 off=137 g=7 stack=9
+        (/home/saeed/go/src/runtime/trace/trace.go-runtime/trace.Start:127)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:37)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:110)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:40454 event:MuUnlock p=0 g=6 off=144 muid=7
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/runtime/trace/trace.go-runtime/trace.Start:137)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:37)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:110)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:48953 event:ChMake p=0 g=6 off=148 cid=10
+        (/home/saeed/go/src/runtime/chan.go-runtime.makechan:122)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:38)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:110)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:58143 event:GoCreate p=0 g=6 off=153 g=8 stack=13
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:111)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:59855 event:ChMake p=0 g=6 off=160 cid=11
+        (/home/saeed/go/src/runtime/chan.go-runtime.makechan:122)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:113)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:62438 event:ChMake p=0 g=6 off=164 cid=12
+        (/home/saeed/go/src/runtime/chan.go-runtime.makechan:122)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:13)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:74241 event:MuRLock p=0 g=6 off=168 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:13)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:83461 event:MuRUnlock p=0 g=6 off=175 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:13)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:87816 event:MuLock p=0 g=6 off=182 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:13)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:108298 event:ProcStart p=1 g=0 off=375 thread=4
+-----------------------------------------------------------
+ts:109920 event:MuUnlock p=0 g=6 off=189 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:13)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:116437 event:GoStart p=1 g=7 off=378 g=7 seq=1
+        (-runtime/trace.Stop:-1)
+-----------------------------------------------------------
+ts:121723 event:MuLock p=0 g=6 off=194 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:13)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:123855 event:HeapAlloc p=1 g=7 off=383 mem=999424
+-----------------------------------------------------------
+ts:127219 event:MuUnlock p=0 g=6 off=201 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:390)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:13)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:133046 event:HeapAlloc p=1 g=7 off=389 mem=1007616
+-----------------------------------------------------------
+ts:135268 event:GoSysCall p=1 g=7 off=395
+        (/home/saeed/go/src/syscall/zsyscall_linux_amd64.go-syscall.write:914)
+        (/home/saeed/go/src/syscall/syscall_unix.go-internal/poll.(*FD).Write.func1:212)
+        (/home/saeed/go/src/internal/poll/fd_unix.go-internal/poll.(*FD).Write.func1:267)
+        (/home/saeed/go/src/internal/poll/fd_unix.go-internal/poll.ignoringEINTR:567)
+        (/home/saeed/go/src/internal/poll/fd_unix.go-internal/poll.(*FD).Write:267)
+        (/home/saeed/go/src/os/file_posix.go-os.(*File).Write:48)
+        (/home/saeed/go/src/os/file_posix.go-os.(*File).Write:48)
+        (/home/saeed/go/src/runtime/trace/trace.go-runtime/trace.Start.func1:133)
+-----------------------------------------------------------
+ts:142536 event:HeapAlloc p=0 g=6 off=206 mem=1007616
+-----------------------------------------------------------
+ts:143077 event:HeapAlloc p=0 g=6 off=212 mem=1015808
+-----------------------------------------------------------
+ts:168154 event:GoCreate p=0 g=6 off=217 g=9 stack=24
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:15)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:171458 event:MuRLock p=0 g=6 off=224 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:172809 event:GoBlock p=1 g=7 off=398
+        (/home/saeed/go/src/runtime/runtime2.go-runtime.ReadTrace:265)
+        (/home/saeed/go/src/runtime/trace/trace.go-runtime/trace.Start.func1:129)
+-----------------------------------------------------------
+ts:175302 event:MuRUnlock p=0 g=6 off=230 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:178966 event:MuLock p=0 g=6 off=237 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:179146 event:GoStart p=1 g=8 off=402 g=8 seq=1
+        (-github.com/staheri/goat/goat.Start:-1)
+-----------------------------------------------------------
+ts:184402 event:HeapAlloc p=1 g=8 off=407 mem=1015808
+-----------------------------------------------------------
+ts:197376 event:MuUnlock p=0 g=6 off=243 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:200289 event:MuLock p=0 g=6 off=248 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:202872 event:HeapAlloc p=1 g=8 off=413 mem=1024000
+-----------------------------------------------------------
+ts:205605 event:GoSysCall p=1 g=8 off=419
+        (/home/saeed/go/src/syscall/zsyscall_linux_amd64.go-syscall.write:914)
+        (/home/saeed/go/src/syscall/syscall_unix.go-internal/poll.(*FD).Write.func1:212)
+        (/home/saeed/go/src/internal/poll/fd_unix.go-internal/poll.(*FD).Write.func1:267)
+        (/home/saeed/go/src/internal/poll/fd_unix.go-internal/poll.ignoringEINTR:567)
+        (/home/saeed/go/src/internal/poll/fd_unix.go-internal/poll.(*FD).Write:267)
+        (/home/saeed/go/src/os/file_posix.go-os.(*File).Write:48)
+        (/home/saeed/go/src/os/file_posix.go-os.(*File).Write:48)
+        (/home/saeed/go/src/fmt/print.go-fmt.Fprintln:265)
+        (/home/saeed/go/src/fmt/print.go-github.com/staheri/goat/goat.Watch:274)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:42)
+-----------------------------------------------------------
+ts:215156 event:MuUnlock p=0 g=6 off=254 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:390)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:221913 event:MuRLock p=1 g=8 off=422 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:44)
+-----------------------------------------------------------
+ts:222304 event:GoCreate p=0 g=6 off=259 g=10 stack=34
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:116)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:223985 event:MuRLock p=0 g=6 off=266 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:116)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:226568 event:MuRUnlock p=1 g=8 off=429 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:44)
+-----------------------------------------------------------
+ts:227439 event:MuRUnlock p=0 g=6 off=272 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:116)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:230923 event:MuLock p=0 g=6 off=278 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:116)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:241314 event:ProcStart p=2 g=0 off=536 thread=2
+-----------------------------------------------------------
+ts:251075 event:GoStart p=2 g=9 off=539 g=9 seq=1
+        (-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:-1)
+-----------------------------------------------------------
+ts:252397 event:HeapAlloc p=1 g=8 off=436 mem=1024000
+-----------------------------------------------------------
+ts:257052 event:HeapAlloc p=1 g=8 off=442 mem=1032192
+-----------------------------------------------------------
+ts:258103 event:HeapAlloc p=1 g=8 off=448 mem=1032192
+-----------------------------------------------------------
+ts:261767 event:HeapAlloc p=1 g=8 off=453 mem=1040384
+-----------------------------------------------------------
+ts:262097 event:ChMake p=1 g=8 off=458 cid=13
+        (/home/saeed/go/src/runtime/chan.go-runtime.makechan:122)
+        (/home/saeed/go/src/time/sleep.go-time.NewTimer:85)
+        (/home/saeed/go/src/time/sleep.go-github.com/staheri/goat/goat.Watch:148)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:45)
+-----------------------------------------------------------
+ts:267083 event:HeapAlloc p=1 g=8 off=462 mem=1040384
+-----------------------------------------------------------
+ts:270056 event:HeapAlloc p=2 g=9 off=544 mem=1040384
+-----------------------------------------------------------
+ts:270897 event:HeapAlloc p=1 g=8 off=468 mem=1048576
+-----------------------------------------------------------
+ts:273480 event:HeapAlloc p=2 g=9 off=550 mem=1056768
+-----------------------------------------------------------
+ts:275462 event:HeapAlloc p=2 g=9 off=555 mem=1056768
+-----------------------------------------------------------
+ts:275672 event:HeapAlloc p=2 g=9 off=560 mem=1064960
+-----------------------------------------------------------
+ts:280237 event:MuUnlock p=0 g=6 off=284 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:116)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:284051 event:HeapAlloc p=2 g=9 off=565 mem=1064960
+-----------------------------------------------------------
+ts:284322 event:HeapAlloc p=2 g=9 off=571 mem=1073152
+-----------------------------------------------------------
+ts:285883 event:HeapAlloc p=1 g=8 off=473 mem=1073152
+-----------------------------------------------------------
+ts:286124 event:MuLock p=0 g=6 off=289 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:116)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:290929 event:MuUnlock p=0 g=6 off=296 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:390)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:116)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:291289 event:HeapAlloc p=1 g=8 off=479 mem=1081344
+-----------------------------------------------------------
+ts:294863 event:ChMake p=2 g=9 off=576 cid=14
+        (/home/saeed/go/src/runtime/chan.go-runtime.makechan:122)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:13)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:85)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:295134 event:Selecti p=1 g=8 off=485 casei=0 cidi=10 kindi=1
+        (/home/saeed/go/src/runtime/select.go-runtime.selectgo:250)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:48)
+-----------------------------------------------------------
+ts:298858 event:Selecti p=1 g=8 off=493 casei=1 cidi=13 kindi=1
+        (/home/saeed/go/src/runtime/select.go-runtime.selectgo:250)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:48)
+-----------------------------------------------------------
+ts:300389 event:ChRecv p=0 g=6 off=301 cid=12 pos=0
+        (/home/saeed/go/src/runtime/chan.go-runtime.chanrecv:830)
+        (/home/saeed/go/src/runtime/chan.go-runtime.chanrecv1:458)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:124)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:301981 event:MuRLock p=2 g=9 off=581 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:13)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:85)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:303092 event:HeapAlloc p=1 g=8 off=500 mem=1081344
+-----------------------------------------------------------
+ts:304504 event:GoBlockRecv p=0 g=6 off=308
+        (/home/saeed/go/src/runtime/chan.go-runtime.chanrecv1:458)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:124)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:306876 event:MuRUnlock p=2 g=9 off=588 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:13)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:85)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:307988 event:GoStart p=0 g=10 off=312 g=10 seq=0
+        (-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:-1)
+-----------------------------------------------------------
+ts:309219 event:GoSleep p=0 g=10 off=315
+        (/home/saeed/go/src/runtime/time.go-time.Sleep:188)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2:121)
+-----------------------------------------------------------
+ts:311952 event:HeapAlloc p=1 g=8 off=506 mem=1089536
+-----------------------------------------------------------
+ts:313454 event:Select p=1 g=8 off=512 pos=0 casei=0 cid=0 kind=0
+        (/home/saeed/go/src/runtime/select.go-runtime.selectgo:351)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:48)
+-----------------------------------------------------------
+ts:316427 event:MuLock p=2 g=9 off=595 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:13)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:85)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:318769 event:GoBlockSelect p=1 g=8 off=520
+        (/home/saeed/go/src/runtime/select.go-runtime.selectgo:353)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:48)
+-----------------------------------------------------------
+ts:319550 event:GoUnblock p=0 g=0 off=318 g=10 seq=0
+-----------------------------------------------------------
+ts:320091 event:GoStart p=0 g=10 off=323 g=10 seq=0
+-----------------------------------------------------------
+ts:320601 event:MuRLock p=0 g=10 off=326 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:117)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2:122)
+-----------------------------------------------------------
+ts:325197 event:ProcStop p=1 g=0 off=524
+-----------------------------------------------------------
+ts:325197 event:MuRUnlock p=0 g=10 off=332 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:117)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2:122)
+-----------------------------------------------------------
+ts:328891 event:MuLock p=0 g=10 off=339 muid=8 pos=0
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:95)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:117)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2:122)
+-----------------------------------------------------------
+ts:335888 event:MuUnlock p=2 g=9 off=602 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:13)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:85)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:340153 event:GoBlockSync p=0 g=10 off=345
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:102)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:117)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2:122)
+-----------------------------------------------------------
+ts:353788 event:ProcStop p=0 g=0 off=349
+-----------------------------------------------------------
+ts:354959 event:GoUnblock p=2 g=9 off=607 g=10 seq=4
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:214)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:13)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:85)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:360515 event:MuLock p=2 g=9 off=614 muid=8 pos=0
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:95)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:13)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:85)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:362047 event:ProcStart p=3 g=0 off=1060 thread=3
+-----------------------------------------------------------
+ts:365981 event:MuLock p=2 g=9 off=621 muid=8 pos=2
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:102)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:13)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:85)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:386374 event:MuUnlock p=2 g=9 off=628 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:390)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:13)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:85)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:394002 event:HeapAlloc p=2 g=9 off=633 mem=1089536
+-----------------------------------------------------------
+ts:394483 event:HeapAlloc p=2 g=9 off=639 mem=1097728
+-----------------------------------------------------------
+ts:400639 event:HeapAlloc p=2 g=9 off=644 mem=1097728
+-----------------------------------------------------------
+ts:400850 event:HeapAlloc p=2 g=9 off=650 mem=1105920
+-----------------------------------------------------------
+ts:403913 event:GoCreate p=2 g=9 off=655 g=17 stack=24
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After:15)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:85)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:406706 event:MuRLock p=2 g=9 off=661 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:28)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:107)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:411151 event:MuRUnlock p=2 g=9 off=667 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:28)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:107)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:415055 event:MuLock p=2 g=9 off=674 muid=8 pos=0
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:95)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:28)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:107)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:418809 event:MuLock p=2 g=9 off=681 muid=8 pos=2
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:102)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:28)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:107)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:437880 event:MuUnlock p=2 g=9 off=687 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:28)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:107)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:441574 event:MuLock p=2 g=9 off=692 muid=8 pos=0
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:95)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:28)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:107)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:444367 event:GoStart p=3 g=10 off=1063 g=10 seq=5
+-----------------------------------------------------------
+ts:445599 event:MuLock p=3 g=10 off=1068 muid=8 pos=2
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:102)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:117)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2:122)
+-----------------------------------------------------------
+ts:467913 event:MuUnlock p=3 g=10 off=1074 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:117)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2:122)
+-----------------------------------------------------------
+ts:471817 event:MuLock p=3 g=10 off=1079 muid=8 pos=0
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:95)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:117)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2:122)
+-----------------------------------------------------------
+ts:476533 event:MuLock p=3 g=10 off=1086 muid=8 pos=2
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:102)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:117)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2:122)
+-----------------------------------------------------------
+ts:481038 event:MuUnlock p=3 g=10 off=1093 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:390)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:117)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2:122)
+-----------------------------------------------------------
+ts:483560 event:HeapAlloc p=2 g=9 off=698 mem=1105920
+-----------------------------------------------------------
+ts:483831 event:HeapAlloc p=2 g=9 off=704 mem=1114112
+-----------------------------------------------------------
+ts:485422 event:MuLock p=3 g=10 off=1098 muid=9 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:28)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:117)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2:122)
+-----------------------------------------------------------
+ts:488155 event:MuUnlock p=3 g=10 off=1105 muid=9
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:31)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:117)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2:122)
+-----------------------------------------------------------
+ts:492961 event:MuLock p=2 g=9 off=709 muid=8 pos=2
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:102)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:28)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:107)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:493441 event:GoSched p=3 g=10 off=1109
+        (/home/saeed/go/src/runtime/proc.go-github.com/staheri/goat/goat.randBound_yield:271)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:117)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2:122)
+-----------------------------------------------------------
+ts:496234 event:GoStart p=3 g=10 off=1113 g=10 seq=0
+-----------------------------------------------------------
+ts:496565 event:ChClose p=3 g=10 off=1116 cid=11
+        (/home/saeed/go/src/runtime/chan.go-runtime.closechan:392)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2.1:119)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func2:122)
+-----------------------------------------------------------
+ts:501220 event:MuUnlock p=2 g=9 off=716 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:390)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:28)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:107)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:501941 event:GoEnd p=3 g=10 off=1120
+-----------------------------------------------------------
+ts:506415 event:MuLock p=2 g=9 off=721 muid=9 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:28)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:28)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:107)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:509659 event:MuUnlock p=2 g=9 off=728 muid=9
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:31)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:28)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:107)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:509779 event:ProcStart p=0 g=0 off=352 thread=0
+-----------------------------------------------------------
+ts:512903 event:GoSched p=2 g=9 off=732
+        (/home/saeed/go/src/runtime/proc.go-github.com/staheri/goat/goat.randBound_yield:271)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:28)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:107)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:516056 event:GoStart p=2 g=17 off=735 g=17 seq=0
+        (-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:-1)
+-----------------------------------------------------------
+ts:516897 event:MuRLock p=2 g=17 off=738 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:28)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify.func1:86)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:520771 event:MuRUnlock p=2 g=17 off=744 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:28)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify.func1:86)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:524375 event:MuLock p=2 g=17 off=751 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:28)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify.func1:86)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:543056 event:MuUnlock p=2 g=17 off=757 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:28)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify.func1:86)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:549813 event:MuLock p=2 g=17 off=762 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:28)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify.func1:86)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:554588 event:MuUnlock p=2 g=17 off=769 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:390)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:28)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify.func1:86)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:559634 event:Select p=2 g=17 off=774 pos=3 casei=1 cid=11 kind=1
+        (/home/saeed/go/src/runtime/chan.go-runtime.selectnbrecv:743)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:34)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify.func1:86)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:562547 event:MuRLock p=2 g=17 off=783 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:565851 event:MuRUnlock p=2 g=17 off=789 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:566271 event:GoStart p=3 g=9 off=1123 g=9 seq=2
+-----------------------------------------------------------
+ts:566842 event:Select p=3 g=9 off=1128 pos=3 casei=1 cid=11 kind=1
+        (/home/saeed/go/src/runtime/chan.go-runtime.selectnbrecv:743)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Until:34)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.Notify:107)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298.func1:114)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:21)
+-----------------------------------------------------------
+ts:569004 event:MuLock p=2 g=17 off=795 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:571587 event:MuRLock p=3 g=9 off=1136 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:575461 event:ProcStop p=0 g=0 off=356
+-----------------------------------------------------------
+ts:575732 event:MuRUnlock p=3 g=9 off=1143 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:579516 event:MuLock p=3 g=9 off=1150 muid=8 pos=0
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:95)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:585733 event:GoBlockSync p=3 g=9 off=1156
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:102)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:587354 event:MuUnlock p=2 g=17 off=801 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:594232 event:GoUnblock p=2 g=17 off=806 g=9 seq=3
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:214)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:595493 event:ProcStop p=3 g=0 off=1160
+-----------------------------------------------------------
+ts:603512 event:MuLock p=2 g=17 off=813 muid=8 pos=0
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:95)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:607717 event:ProcStart p=3 g=0 off=1163 thread=3
+-----------------------------------------------------------
+ts:608347 event:MuLock p=2 g=17 off=820 muid=8 pos=2
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:102)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:613033 event:MuUnlock p=2 g=17 off=827 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:390)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:617417 event:ChClose p=2 g=17 off=832 cid=14
+        (/home/saeed/go/src/runtime/chan.go-runtime.closechan:392)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:18)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:619970 event:GoEnd p=2 g=17 off=837
+-----------------------------------------------------------
+ts:620961 event:GoStart p=2 g=9 off=839 g=9 seq=0
+-----------------------------------------------------------
+ts:621442 event:MuLock p=2 g=9 off=842 muid=8 pos=2
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:102)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:640152 event:MuUnlock p=2 g=9 off=848 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:643096 event:MuLock p=2 g=9 off=853 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:647420 event:MuUnlock p=2 g=9 off=859 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:390)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:651625 event:MuLock p=2 g=9 off=864 muid=9 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:28)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:654358 event:MuUnlock p=2 g=9 off=871 muid=9
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:31)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:657031 event:GoSched p=2 g=9 off=875
+        (/home/saeed/go/src/runtime/proc.go-github.com/staheri/goat/goat.randBound_yield:271)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:14)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:16)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:659073 event:GoStart p=2 g=9 off=878 g=9 seq=0
+-----------------------------------------------------------
+ts:659253 event:ChClose p=2 g=9 off=881 cid=12
+        (/home/saeed/go/src/runtime/chan.go-runtime.closechan:392)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:18)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:661686 event:GoUnblock p=2 g=9 off=885 g=6 seq=2
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1.1:18)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.After.func1:23)
+-----------------------------------------------------------
+ts:663578 event:GoEnd p=2 g=9 off=891
+-----------------------------------------------------------
+ts:664089 event:GoStart p=2 g=6 off=893 g=6 seq=0
+-----------------------------------------------------------
+ts:664269 event:ChRecv p=2 g=6 off=896 cid=12 pos=2
+        (/home/saeed/go/src/runtime/chan.go-runtime.chanrecv:600)
+        (/home/saeed/go/src/runtime/chan.go-runtime.chanrecv1:458)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:124)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:668954 event:ChSend p=2 g=6 off=902 cid=10 pos=1
+        (/home/saeed/go/src/runtime/chan.go-runtime.chansend:218)
+        (/home/saeed/go/src/runtime/chan.go-runtime.chansend1:154)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Stop:68)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:125)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:670215 event:ProcStop p=3 g=0 off=1167
+-----------------------------------------------------------
+ts:673399 event:GoUnblock p=2 g=6 off=909 g=8 seq=2
+        (/home/saeed/go/src/runtime/chan.go-runtime.chansend1:154)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Stop:68)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:125)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:679435 event:ChRecv p=2 g=6 off=916 cid=10 pos=0
+        (/home/saeed/go/src/runtime/chan.go-runtime.chanrecv:830)
+        (/home/saeed/go/src/runtime/chan.go-runtime.chanrecv1:458)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Stop:69)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:125)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:682799 event:ProcStart p=3 g=0 off=1170 thread=3
+-----------------------------------------------------------
+ts:683129 event:GoBlockRecv p=2 g=6 off=923
+        (/home/saeed/go/src/runtime/chan.go-runtime.chanrecv1:458)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Stop:69)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:125)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:685953 event:GoStart p=2 g=8 off=926 g=8 seq=0
+-----------------------------------------------------------
+ts:686523 event:Select p=2 g=8 off=929 pos=2 casei=0 cid=10 kind=1
+        (/home/saeed/go/src/runtime/select.go-runtime.selectgo:377)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:48)
+-----------------------------------------------------------
+ts:693521 event:ChRecv p=2 g=8 off=937 cid=10 pos=2
+        (/home/saeed/go/src/runtime/select.go-runtime.selectgo:540)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:48)
+-----------------------------------------------------------
+ts:704993 event:HeapAlloc p=2 g=8 off=944 mem=1114112
+-----------------------------------------------------------
+ts:705384 event:HeapAlloc p=2 g=8 off=950 mem=1122304
+-----------------------------------------------------------
+ts:710970 event:HeapAlloc p=2 g=8 off=955 mem=1122304
+-----------------------------------------------------------
+ts:711270 event:HeapAlloc p=2 g=8 off=961 mem=1130496
+-----------------------------------------------------------
+ts:715205 event:GoSysCall p=2 g=8 off=966
+        (/home/saeed/go/src/syscall/zsyscall_linux_amd64.go-syscall.write:914)
+        (/home/saeed/go/src/syscall/syscall_unix.go-internal/poll.(*FD).Write.func1:212)
+        (/home/saeed/go/src/internal/poll/fd_unix.go-internal/poll.(*FD).Write.func1:267)
+        (/home/saeed/go/src/internal/poll/fd_unix.go-internal/poll.ignoringEINTR:567)
+        (/home/saeed/go/src/internal/poll/fd_unix.go-internal/poll.(*FD).Write:267)
+        (/home/saeed/go/src/os/file_posix.go-os.(*File).Write:48)
+        (/home/saeed/go/src/os/file_posix.go-os.(*File).Write:48)
+        (/home/saeed/go/src/fmt/print.go-fmt.Fprintln:265)
+        (/home/saeed/go/src/fmt/print.go-github.com/staheri/goat/goat.Watch:274)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:56)
+-----------------------------------------------------------
+ts:727428 event:ChSend p=2 g=8 off=970 cid=10 pos=1
+        (/home/saeed/go/src/runtime/chan.go-runtime.chansend:218)
+        (/home/saeed/go/src/runtime/chan.go-runtime.chansend1:154)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:51)
+-----------------------------------------------------------
+ts:731783 event:GoUnblock p=2 g=8 off=977 g=6 seq=0
+        (/home/saeed/go/src/runtime/chan.go-runtime.chansend1:154)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:51)
+-----------------------------------------------------------
+ts:734876 event:GoEnd p=2 g=8 off=982
+-----------------------------------------------------------
+ts:735627 event:GoStart p=2 g=6 off=984 g=6 seq=0
+-----------------------------------------------------------
+ts:735777 event:ChRecv p=2 g=6 off=987 cid=10 pos=2
+        (/home/saeed/go/src/runtime/chan.go-runtime.chanrecv:600)
+        (/home/saeed/go/src/runtime/chan.go-runtime.chanrecv1:458)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Stop:69)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:125)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:740462 event:HeapAlloc p=2 g=6 off=993 mem=1130496
+-----------------------------------------------------------
+ts:740763 event:HeapAlloc p=2 g=6 off=999 mem=1138688
+-----------------------------------------------------------
+ts:744847 event:ProcStop p=3 g=0 off=1174
+-----------------------------------------------------------
+ts:751244 event:GoSleep p=2 g=6 off=1004
+        (/home/saeed/go/src/runtime/time.go-time.Sleep:188)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Stop:70)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:125)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:755449 event:HeapAlloc p=2 g=0 off=1008 mem=1138688
+-----------------------------------------------------------
+ts:755959 event:HeapAlloc p=2 g=0 off=1014 mem=1146880
+-----------------------------------------------------------
+ts:768063 event:ProcStop p=2 g=0 off=1019
+-----------------------------------------------------------
+ts:842214 event:ProcStart p=2 g=0 off=1022 thread=4
+-----------------------------------------------------------
+ts:844737 event:ProcStop p=2 g=0 off=1026
+-----------------------------------------------------------
+ts:1888353 event:ProcStart p=2 g=0 off=1028 thread=2
+-----------------------------------------------------------
+ts:1890155 event:GoUnblock p=2 g=0 off=1033 g=6 seq=0
+-----------------------------------------------------------
+ts:1891656 event:ProcStart p=3 g=0 off=1177 thread=3
+-----------------------------------------------------------
+ts:1896191 event:GoStart p=2 g=6 off=1037 g=6 seq=0
+-----------------------------------------------------------
+ts:1896792 event:MuLock p=2 g=6 off=1041 muid=7 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/runtime/trace/trace.go-runtime/trace.Stop:143)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Stop:71)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:125)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:1953614 event:ProcStop p=3 g=0 off=1182
+-----------------------------------------------------------
+ts:1975358 event:ProcStart p=0 g=0 off=359 thread=0
+-----------------------------------------------------------
+ts:1975929 event:ProcStop p=0 g=0 off=364
+-----------------------------------------------------------
+ts:1989083 event:GoSched p=2 g=6 off=1047
+        (/home/saeed/go/src/runtime/trace.go-runtime.StopTrace:1100)
+        (/home/saeed/go/src/runtime/trace.go-runtime.StopTrace:1099)
+        (/home/saeed/go/src/runtime/trace/trace.go-runtime/trace.Stop:147)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Stop:71)
+        (/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src/kubernetes11298_test.go-_/home/saeed/goatws/p8/blocking_kubernetes_11298/goat_delay/src.TestKubernetes11298:125)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)

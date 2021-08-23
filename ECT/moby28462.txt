@@ -1,0 +1,1145 @@
+ts:0 event:GoCreate p=0 g=0 off=25 g=1 stack=2
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:37)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:106)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:300 event:GoWaiting p=0 g=1 off=31 g=1
+-----------------------------------------------------------
+ts:4204 event:GoCreate p=0 g=0 off=34 g=2 stack=3
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:37)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:106)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:4384 event:GoWaiting p=0 g=2 off=41 g=2
+-----------------------------------------------------------
+ts:10661 event:GoCreate p=0 g=0 off=44 g=3 stack=4
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:37)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:106)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:10781 event:GoWaiting p=0 g=3 off=51 g=3
+-----------------------------------------------------------
+ts:14685 event:GoCreate p=0 g=0 off=54 g=4 stack=5
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:37)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:106)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:14775 event:GoWaiting p=0 g=4 off=61 g=4
+-----------------------------------------------------------
+ts:18709 event:GoCreate p=0 g=0 off=64 g=5 stack=6
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:37)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:106)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:18800 event:GoWaiting p=0 g=5 off=71 g=5
+-----------------------------------------------------------
+ts:22794 event:GoCreate p=0 g=0 off=74 g=6 stack=7
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:37)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:106)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:22944 event:ProcStart p=0 g=0 off=81 thread=0
+-----------------------------------------------------------
+ts:23094 event:GoStart p=0 g=6 off=84 g=6 seq=0
+        (-testing.callerName:-1)
+-----------------------------------------------------------
+ts:26007 event:Gomaxprocs p=0 g=6 off=134 procs=8
+        (/home/saeed/go/src/runtime/proc.go-runtime.startTheWorld:925)
+        (/home/saeed/go/src/runtime/proc.go-runtime.startTheWorldGC:942)
+        (/home/saeed/go/src/runtime/trace.go-runtime.StartTrace:293)
+        (/home/saeed/go/src/runtime/trace/trace.go-runtime/trace.Start:124)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:37)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:106)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:40333 event:GoCreate p=0 g=6 off=138 g=7 stack=9
+        (/home/saeed/go/src/runtime/trace/trace.go-runtime/trace.Start:127)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:37)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:106)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:42675 event:MuUnlock p=0 g=6 off=145 muid=7
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/runtime/trace/trace.go-runtime/trace.Start:137)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:37)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:106)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:51234 event:ChMake p=0 g=6 off=149 cid=10
+        (/home/saeed/go/src/runtime/chan.go-runtime.makechan:122)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Start:38)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:106)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:55529 event:GoCreate p=0 g=6 off=154 g=8 stack=13
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:107)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:57000 event:ChMake p=0 g=6 off=161 cid=11
+        (/home/saeed/go/src/runtime/chan.go-runtime.makechan:122)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:99)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:108)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:60214 event:MuRLock p=0 g=6 off=165 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:101)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:68443 event:MuRUnlock p=0 g=6 off=171 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:101)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:72407 event:MuLock p=0 g=6 off=178 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:101)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:91147 event:MuUnlock p=0 g=6 off=185 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:101)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:94510 event:MuLock p=0 g=6 off=190 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:101)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:99315 event:MuUnlock p=0 g=6 off=196 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:390)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:101)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:111058 event:MuLock p=0 g=6 off=201 muid=9 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:28)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:101)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:121990 event:MuUnlock p=0 g=6 off=208 muid=9
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:31)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:101)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:123461 event:ProcStart p=1 g=0 off=503 thread=2
+-----------------------------------------------------------
+ts:125413 event:GoSched p=0 g=6 off=213
+        (/home/saeed/go/src/runtime/proc.go-github.com/staheri/goat/goat.randBound_yield:271)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:101)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:127876 event:GoStart p=0 g=8 off=216 g=8 seq=0
+        (-github.com/staheri/goat/goat.Start:-1)
+-----------------------------------------------------------
+ts:130158 event:GoSysCall p=0 g=8 off=219
+        (/home/saeed/go/src/syscall/zsyscall_linux_amd64.go-syscall.write:914)
+        (/home/saeed/go/src/syscall/syscall_unix.go-internal/poll.(*FD).Write.func1:212)
+        (/home/saeed/go/src/internal/poll/fd_unix.go-internal/poll.(*FD).Write.func1:267)
+        (/home/saeed/go/src/internal/poll/fd_unix.go-internal/poll.ignoringEINTR:567)
+        (/home/saeed/go/src/internal/poll/fd_unix.go-internal/poll.(*FD).Write:267)
+        (/home/saeed/go/src/os/file_posix.go-os.(*File).Write:48)
+        (/home/saeed/go/src/os/file_posix.go-os.(*File).Write:48)
+        (/home/saeed/go/src/fmt/print.go-fmt.Fprintln:265)
+        (/home/saeed/go/src/fmt/print.go-github.com/staheri/goat/goat.Watch:274)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:42)
+-----------------------------------------------------------
+ts:131810 event:GoStart p=1 g=7 off=506 g=7 seq=1
+        (-runtime/trace.Stop:-1)
+-----------------------------------------------------------
+ts:135234 event:HeapAlloc p=1 g=7 off=511 mem=999424
+-----------------------------------------------------------
+ts:147277 event:MuRLock p=0 g=8 off=222 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:44)
+-----------------------------------------------------------
+ts:147667 event:HeapAlloc p=1 g=7 off=516 mem=1007616
+-----------------------------------------------------------
+ts:149980 event:GoSysCall p=1 g=7 off=522
+        (/home/saeed/go/src/syscall/zsyscall_linux_amd64.go-syscall.write:914)
+        (/home/saeed/go/src/syscall/syscall_unix.go-internal/poll.(*FD).Write.func1:212)
+        (/home/saeed/go/src/internal/poll/fd_unix.go-internal/poll.(*FD).Write.func1:267)
+        (/home/saeed/go/src/internal/poll/fd_unix.go-internal/poll.ignoringEINTR:567)
+        (/home/saeed/go/src/internal/poll/fd_unix.go-internal/poll.(*FD).Write:267)
+        (/home/saeed/go/src/os/file_posix.go-os.(*File).Write:48)
+        (/home/saeed/go/src/os/file_posix.go-os.(*File).Write:48)
+        (/home/saeed/go/src/runtime/trace/trace.go-runtime/trace.Start.func1:133)
+-----------------------------------------------------------
+ts:151241 event:MuRUnlock p=0 g=8 off=229 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:44)
+-----------------------------------------------------------
+ts:165116 event:HeapAlloc p=0 g=8 off=236 mem=1007616
+-----------------------------------------------------------
+ts:165746 event:HeapAlloc p=0 g=8 off=242 mem=1015808
+-----------------------------------------------------------
+ts:168449 event:ChMake p=0 g=8 off=247 cid=12
+        (/home/saeed/go/src/runtime/chan.go-runtime.makechan:122)
+        (/home/saeed/go/src/time/sleep.go-time.NewTimer:85)
+        (/home/saeed/go/src/time/sleep.go-github.com/staheri/goat/goat.Watch:148)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:45)
+-----------------------------------------------------------
+ts:170822 event:GoBlock p=1 g=7 off=525
+        (/home/saeed/go/src/runtime/runtime2.go-runtime.ReadTrace:265)
+        (/home/saeed/go/src/runtime/trace/trace.go-runtime/trace.Start.func1:129)
+-----------------------------------------------------------
+ts:175987 event:GoStart p=1 g=6 off=529 g=6 seq=2
+-----------------------------------------------------------
+ts:181183 event:HeapAlloc p=1 g=6 off=534 mem=1015808
+-----------------------------------------------------------
+ts:184667 event:Selecti p=0 g=8 off=251 casei=0 cidi=10 kindi=1
+        (/home/saeed/go/src/runtime/select.go-runtime.selectgo:250)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:48)
+-----------------------------------------------------------
+ts:186979 event:HeapAlloc p=1 g=6 off=540 mem=1024000
+-----------------------------------------------------------
+ts:187700 event:Selecti p=0 g=8 off=259 casei=1 cidi=12 kindi=1
+        (/home/saeed/go/src/runtime/select.go-runtime.selectgo:250)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:48)
+-----------------------------------------------------------
+ts:191244 event:Select p=0 g=8 off=266 pos=0 casei=0 cid=0 kind=0
+        (/home/saeed/go/src/runtime/select.go-runtime.selectgo:351)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:48)
+-----------------------------------------------------------
+ts:198301 event:GoCreate p=1 g=6 off=546 g=17 stack=32
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:111)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:198601 event:GoBlockSelect p=0 g=8 off=274
+        (/home/saeed/go/src/runtime/select.go-runtime.selectgo:353)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:48)
+-----------------------------------------------------------
+ts:201695 event:MuRLock p=1 g=6 off=553 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:111)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:206800 event:MuRUnlock p=1 g=6 off=559 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:111)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:211335 event:MuLock p=1 g=6 off=566 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:111)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:230225 event:MuUnlock p=1 g=6 off=573 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:111)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:232447 event:ProcStart p=2 g=0 off=742 thread=4
+-----------------------------------------------------------
+ts:233919 event:MuLock p=1 g=6 off=578 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:111)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:238754 event:MuUnlock p=1 g=6 off=584 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:390)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:111)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:250377 event:GoCreate p=1 g=6 off=589 g=18 stack=42
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:113)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:252749 event:ChSend p=1 g=6 off=596 cid=10 pos=1
+        (/home/saeed/go/src/runtime/chan.go-runtime.chansend:218)
+        (/home/saeed/go/src/runtime/chan.go-runtime.chansend1:154)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Stop:68)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:257314 event:GoUnblock p=1 g=6 off=602 g=8 seq=2
+        (/home/saeed/go/src/runtime/chan.go-runtime.chansend1:154)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Stop:68)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:262269 event:HeapAlloc p=1 g=6 off=609 mem=1024000
+-----------------------------------------------------------
+ts:266564 event:GoStart p=0 g=17 off=278 g=17 seq=1
+        (-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Health).OpenMonitorChannel:-1)
+-----------------------------------------------------------
+ts:266714 event:HeapAlloc p=1 g=6 off=615 mem=1032192
+-----------------------------------------------------------
+ts:267165 event:MuRLock p=0 g=17 off=283 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:267255 event:ChRecv p=1 g=6 off=621 cid=10 pos=0
+        (/home/saeed/go/src/runtime/chan.go-runtime.chanrecv:830)
+        (/home/saeed/go/src/runtime/chan.go-runtime.chanrecv1:458)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Stop:69)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:271489 event:GoBlockRecv p=1 g=6 off=627
+        (/home/saeed/go/src/runtime/chan.go-runtime.chanrecv1:458)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Stop:69)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:272150 event:MuRUnlock p=0 g=17 off=289 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:274612 event:GoStart p=1 g=8 off=631 g=8 seq=0
+-----------------------------------------------------------
+ts:275273 event:Select p=1 g=8 off=634 pos=2 casei=0 cid=10 kind=1
+        (/home/saeed/go/src/runtime/select.go-runtime.selectgo:377)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:48)
+-----------------------------------------------------------
+ts:275664 event:MuLock p=0 g=17 off=296 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:282481 event:ChRecv p=1 g=8 off=642 cid=10 pos=2
+        (/home/saeed/go/src/runtime/select.go-runtime.selectgo:540)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:48)
+-----------------------------------------------------------
+ts:292932 event:HeapAlloc p=1 g=8 off=649 mem=1032192
+-----------------------------------------------------------
+ts:294103 event:MuUnlock p=0 g=17 off=302 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:297136 event:MuLock p=0 g=17 off=307 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:305545 event:MuUnlock p=0 g=17 off=313 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:390)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:307077 event:HeapAlloc p=1 g=8 off=655 mem=1040384
+-----------------------------------------------------------
+ts:307648 event:GoStart p=2 g=18 off=745 g=18 seq=1
+        (-github.com/staheri/goat/goat.randBound_yield:-1)
+-----------------------------------------------------------
+ts:308459 event:MuRLock p=2 g=18 off=750 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:39)
+-----------------------------------------------------------
+ts:309119 event:HeapAlloc p=1 g=8 off=661 mem=1040384
+-----------------------------------------------------------
+ts:310501 event:Select p=0 g=17 off=318 pos=3 casei=0 cid=11 kind=1
+        (/home/saeed/go/src/runtime/chan.go-runtime.selectnbrecv:748)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:80)
+-----------------------------------------------------------
+ts:312843 event:MuRLock p=0 g=17 off=327 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:88)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:313384 event:HeapAlloc p=1 g=8 off=666 mem=1048576
+-----------------------------------------------------------
+ts:314585 event:GoSysCall p=1 g=8 off=672
+        (/home/saeed/go/src/syscall/zsyscall_linux_amd64.go-syscall.write:914)
+        (/home/saeed/go/src/syscall/syscall_unix.go-internal/poll.(*FD).Write.func1:212)
+        (/home/saeed/go/src/internal/poll/fd_unix.go-internal/poll.(*FD).Write.func1:267)
+        (/home/saeed/go/src/internal/poll/fd_unix.go-internal/poll.ignoringEINTR:567)
+        (/home/saeed/go/src/internal/poll/fd_unix.go-internal/poll.(*FD).Write:267)
+        (/home/saeed/go/src/os/file_posix.go-os.(*File).Write:48)
+        (/home/saeed/go/src/os/file_posix.go-os.(*File).Write:48)
+        (/home/saeed/go/src/fmt/print.go-fmt.Fprintln:265)
+        (/home/saeed/go/src/fmt/print.go-github.com/staheri/goat/goat.Watch:274)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:56)
+-----------------------------------------------------------
+ts:315516 event:MuRUnlock p=2 g=18 off=756 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:39)
+-----------------------------------------------------------
+ts:316147 event:MuRUnlock p=0 g=17 off=333 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:88)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:319420 event:MuLock p=0 g=17 off=339 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:88)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:319811 event:MuLock p=2 g=18 off=763 muid=8 pos=0
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:95)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:39)
+-----------------------------------------------------------
+ts:325697 event:ChSend p=1 g=8 off=675 cid=10 pos=1
+        (/home/saeed/go/src/runtime/chan.go-runtime.chansend:218)
+        (/home/saeed/go/src/runtime/chan.go-runtime.chansend1:154)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:51)
+-----------------------------------------------------------
+ts:330232 event:GoUnblock p=1 g=8 off=682 g=6 seq=0
+        (/home/saeed/go/src/runtime/chan.go-runtime.chansend1:154)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Watch:51)
+-----------------------------------------------------------
+ts:333325 event:GoEnd p=1 g=8 off=687
+-----------------------------------------------------------
+ts:334226 event:GoStart p=1 g=6 off=689 g=6 seq=0
+-----------------------------------------------------------
+ts:334376 event:ChRecv p=1 g=6 off=692 cid=10 pos=2
+        (/home/saeed/go/src/runtime/chan.go-runtime.chanrecv:600)
+        (/home/saeed/go/src/runtime/chan.go-runtime.chanrecv1:458)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Stop:69)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:337770 event:MuUnlock p=0 g=17 off=345 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:88)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:339181 event:HeapAlloc p=1 g=6 off=698 mem=1048576
+-----------------------------------------------------------
+ts:342365 event:MuLock p=0 g=17 off=350 muid=8 pos=0
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:95)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:88)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:344197 event:HeapAlloc p=1 g=6 off=704 mem=1056768
+-----------------------------------------------------------
+ts:345038 event:GoSleep p=1 g=6 off=710
+        (/home/saeed/go/src/runtime/time.go-time.Sleep:188)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Stop:70)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:347200 event:MuLock p=0 g=17 off=357 muid=8 pos=2
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:102)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:88)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:348371 event:HeapAlloc p=1 g=0 off=713 mem=1056768
+-----------------------------------------------------------
+ts:351885 event:MuUnlock p=0 g=17 off=364 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:390)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:88)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:356480 event:MuLock p=0 g=17 off=369 muid=10 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:90)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:356570 event:HeapAlloc p=1 g=0 off=718 mem=1064960
+-----------------------------------------------------------
+ts:358762 event:MuRLock p=0 g=17 off=376 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:91)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:95)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:359603 event:ProcStop p=1 g=0 off=724
+-----------------------------------------------------------
+ts:362306 event:MuRUnlock p=0 g=17 off=382 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:91)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:95)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:373538 event:MuLock p=0 g=17 off=388 muid=8 pos=0
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:95)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:91)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:95)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:377592 event:MuLock p=0 g=17 off=395 muid=8 pos=2
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:102)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:91)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:95)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:381767 event:HeapAlloc p=2 g=18 off=770 mem=1064960
+-----------------------------------------------------------
+ts:389065 event:HeapAlloc p=2 g=18 off=776 mem=1073152
+-----------------------------------------------------------
+ts:396513 event:MuUnlock p=0 g=17 off=402 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:91)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:95)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:400807 event:ProcStart p=3 g=0 off=1034 thread=3
+-----------------------------------------------------------
+ts:402279 event:MuLock p=0 g=17 off=407 muid=8 pos=0
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:95)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:91)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:95)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:407775 event:MuLock p=2 g=18 off=782 muid=8 pos=2
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:102)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:39)
+-----------------------------------------------------------
+ts:412850 event:GoBlockSync p=0 g=17 off=414
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:102)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:91)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:95)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:414562 event:ProcStop p=3 g=0 off=1037
+-----------------------------------------------------------
+ts:421169 event:ProcStop p=0 g=0 off=418
+-----------------------------------------------------------
+ts:428887 event:MuUnlock p=2 g=18 off=789 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:39)
+-----------------------------------------------------------
+ts:432611 event:GoUnblock p=2 g=18 off=794 g=17 seq=2
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:214)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:39)
+-----------------------------------------------------------
+ts:441561 event:MuLock p=2 g=18 off=800 muid=8 pos=0
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:95)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:39)
+-----------------------------------------------------------
+ts:446456 event:MuLock p=2 g=18 off=807 muid=8 pos=2
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:102)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:39)
+-----------------------------------------------------------
+ts:448198 event:ProcStart p=0 g=0 off=421 thread=0
+-----------------------------------------------------------
+ts:450840 event:MuUnlock p=2 g=18 off=814 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:390)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:39)
+-----------------------------------------------------------
+ts:455135 event:MuLock p=2 g=18 off=819 muid=9 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:28)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:39)
+-----------------------------------------------------------
+ts:457688 event:MuUnlock p=2 g=18 off=826 muid=9
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:31)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:39)
+-----------------------------------------------------------
+ts:460301 event:GoSched p=2 g=18 off=830
+        (/home/saeed/go/src/runtime/proc.go-github.com/staheri/goat/goat.randBound_yield:271)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:39)
+-----------------------------------------------------------
+ts:462493 event:GoStart p=2 g=17 off=833 g=17 seq=0
+-----------------------------------------------------------
+ts:462973 event:MuLock p=2 g=17 off=836 muid=8 pos=2
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:102)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:91)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:95)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:468109 event:MuUnlock p=2 g=17 off=842 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:390)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:91)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:95)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:473004 event:MuLock p=2 g=17 off=847 muid=9 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:28)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:91)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:95)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:476037 event:MuUnlock p=2 g=17 off=854 muid=9
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:31)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:91)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:95)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:479011 event:GoSched p=2 g=17 off=858
+        (/home/saeed/go/src/runtime/proc.go-github.com/staheri/goat/goat.randBound_yield:271)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:91)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:95)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:481413 event:GoStart p=2 g=18 off=861 g=18 seq=0
+-----------------------------------------------------------
+ts:481593 event:MuLock p=2 g=18 off=864 muid=10 pos=0
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:95)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:41)
+-----------------------------------------------------------
+ts:484326 event:GoBlockSync p=2 g=18 off=870
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:102)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:41)
+-----------------------------------------------------------
+ts:490543 event:GoStart p=2 g=17 off=873 g=17 seq=0
+-----------------------------------------------------------
+ts:490723 event:MuUnlock p=2 g=17 off=877 muid=10
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:93)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:95)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:493516 event:GoUnblock p=2 g=17 off=881 g=18 seq=0
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:214)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult.func1:93)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:95)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:496880 event:MuRLock p=2 g=17 off=885 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:500574 event:MuRUnlock p=2 g=17 off=891 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:503937 event:MuLock p=2 g=17 off=897 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:521956 event:MuUnlock p=2 g=17 off=903 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:524749 event:MuLock p=2 g=17 off=908 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:528834 event:MuUnlock p=2 g=17 off=914 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:390)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:533008 event:MuLock p=2 g=17 off=919 muid=9 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:28)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:535531 event:MuUnlock p=2 g=17 off=926 muid=9
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:31)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:537963 event:GoSched p=2 g=17 off=930
+        (/home/saeed/go/src/runtime/proc.go-github.com/staheri/goat/goat.randBound_yield:271)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:539585 event:GoStart p=2 g=18 off=933 g=18 seq=0
+-----------------------------------------------------------
+ts:539855 event:MuLock p=2 g=18 off=936 muid=10 pos=2
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:102)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:41)
+-----------------------------------------------------------
+ts:542198 event:MuRLock p=2 g=18 off=942 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:57)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:42)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:57)
+-----------------------------------------------------------
+ts:546132 event:MuRUnlock p=2 g=18 off=948 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:57)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:42)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:57)
+-----------------------------------------------------------
+ts:549706 event:MuLock p=2 g=18 off=955 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:57)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:42)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:57)
+-----------------------------------------------------------
+ts:568536 event:MuUnlock p=2 g=18 off=961 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:57)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:42)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:57)
+-----------------------------------------------------------
+ts:572140 event:MuLock p=2 g=18 off=966 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:57)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:42)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:57)
+-----------------------------------------------------------
+ts:575173 event:GoStart p=0 g=17 off=425 g=17 seq=5
+-----------------------------------------------------------
+ts:575954 event:Select p=0 g=17 off=430 pos=3 casei=0 cid=11 kind=1
+        (/home/saeed/go/src/runtime/chan.go-runtime.selectnbrecv:748)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:80)
+-----------------------------------------------------------
+ts:577035 event:MuUnlock p=2 g=18 off=972 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:390)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:57)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:42)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:57)
+-----------------------------------------------------------
+ts:580219 event:MuRLock p=0 g=17 off=438 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RLock:61)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:80)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:88)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:582020 event:MuLock p=2 g=18 off=977 muid=9 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:28)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:57)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:42)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:57)
+-----------------------------------------------------------
+ts:584333 event:MuRUnlock p=0 g=17 off=445 muid=6 pos=1
+        (/home/saeed/go/src/sync/rwmutex.go-sync.(*RWMutex).RUnlock:85)
+        (/home/saeed/go/src/syscall/env_unix.go-syscall.Getenv:90)
+        (/home/saeed/go/src/os/env.go-os.Getenv:103)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:88)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:585264 event:MuUnlock p=2 g=18 off=984 muid=9
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:34)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:57)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:42)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:57)
+-----------------------------------------------------------
+ts:588117 event:MuLock p=0 g=17 off=452 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:409)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:88)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:588808 event:ChSend p=2 g=18 off=988 cid=11 pos=0
+        (/home/saeed/go/src/runtime/chan.go-runtime.chansend:262)
+        (/home/saeed/go/src/runtime/chan.go-runtime.chansend1:154)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:72)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:42)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:57)
+-----------------------------------------------------------
+ts:592081 event:GoBlockSend p=2 g=18 off=994
+        (/home/saeed/go/src/runtime/chan.go-runtime.chansend1:154)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:72)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:42)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.(*Daemon).StateChanged:57)
+-----------------------------------------------------------
+ts:596976 event:ProcStop p=2 g=0 off=997
+-----------------------------------------------------------
+ts:606797 event:MuUnlock p=0 g=17 off=458 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).seedPos:412)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Seed:76)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:303)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/randBound_yield.go-github.com/staheri/goat/goat.randBound_yield:21)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:88)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:610010 event:MuLock p=0 g=17 off=463 muid=8 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:388)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:88)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:614785 event:MuUnlock p=0 g=17 off=469 muid=8
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Unlock:209)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*lockedSource).Int63:390)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:85)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Int31n:99)
+        (/home/saeed/go/src/math/rand/rand.go-math/rand.(*Rand).Intn:172)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/go/src/math/rand/rand.go-github.com/staheri/goat/goat.randBound_yield:337)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:14)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:88)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:619350 event:MuLock p=0 g=17 off=474 muid=10 pos=0
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:95)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:90)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:623525 event:GoBlockSync p=0 g=17 off=481
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:102)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.handleProbeResult:90)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.monitor:83)
+-----------------------------------------------------------
+ts:627249 event:ProcStop p=0 g=0 off=485
+-----------------------------------------------------------
+ts:642685 event:ProcStart p=3 g=0 off=1040 thread=3
+-----------------------------------------------------------
+ts:645418 event:ProcStop p=3 g=0 off=1044
+-----------------------------------------------------------
+ts:1522594 event:ProcStart p=2 g=0 off=1000 thread=2
+-----------------------------------------------------------
+ts:1525717 event:GoUnblock p=2 g=0 off=1005 g=6 seq=5
+-----------------------------------------------------------
+ts:1532204 event:GoStart p=2 g=6 off=1011 g=6 seq=0
+-----------------------------------------------------------
+ts:1532805 event:MuLock p=2 g=6 off=1015 muid=7 pos=1
+        (/home/saeed/go/src/sync/mutex.go-sync.(*Mutex).Lock:86)
+        (/home/saeed/go/src/runtime/trace/trace.go-runtime/trace.Stop:143)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Stop:71)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
+ts:1547430 event:ProcStart p=3 g=0 off=1046 thread=3
+-----------------------------------------------------------
+ts:1548001 event:ProcStop p=3 g=0 off=1051
+-----------------------------------------------------------
+ts:1634493 event:ProcStart p=1 g=0 off=726 thread=4
+-----------------------------------------------------------
+ts:1635094 event:ProcStop p=1 g=0 off=731
+-----------------------------------------------------------
+ts:1638818 event:ProcStart p=0 g=0 off=487 thread=0
+-----------------------------------------------------------
+ts:1639358 event:ProcStop p=0 g=0 off=492
+-----------------------------------------------------------
+ts:1651011 event:GoSched p=2 g=6 off=1021
+        (/home/saeed/go/src/runtime/trace.go-runtime.StopTrace:1100)
+        (/home/saeed/go/src/runtime/trace.go-runtime.StopTrace:1099)
+        (/home/saeed/go/src/runtime/trace/trace.go-runtime/trace.Stop:147)
+        (/home/saeed/gopath/src/github.com/staheri/goat/goat/handlers.go-github.com/staheri/goat/goat.Stop:71)
+        (/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src/moby28462_test.go-_/home/saeed/goatws/p8/blocking_moby_28462/goat_delay/src.TestMoby28462:114)
+        (/home/saeed/go/src/testing/testing.go-testing.tRunner:1123)
+-----------------------------------------------------------
